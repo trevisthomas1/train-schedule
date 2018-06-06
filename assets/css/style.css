@@ -1,0 +1,22 @@
+body {
+    background-image: url(../images/trainStation.jpg);
+    background-size: cover;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.jumbotron {
+    background: none !important;
+    color: white;
+    max-height: 100px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.card-header {
+    background-color: #D3D3D3 !important;
+}
